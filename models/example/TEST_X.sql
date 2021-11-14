@@ -10,7 +10,7 @@
 
 with source_data as (
 
-   select date from PLAYGROUND_KAPIL_SRIVATSAN.COVID_DATA
+   select * from PLAYGROUND_KAPIL_SRIVATSAN.COVID_DATA
 
 )
 
