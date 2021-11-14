@@ -10,7 +10,7 @@
 
 with source_data as (
 
-   select date from google_sheets.covid_19_indonesia_kapil_srivatsan_1
+   select date from PLAYGROUND_KAPIL_SRIVATSAN.COVID_DATA
 
 )
 
