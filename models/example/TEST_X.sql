@@ -10,7 +10,7 @@
 
 with source_data as (
 
-   select * from PLAYGROUND_KAPIL_SRIVATSAN.TEST_DB
+   select * from google_sheets.covid_19_indonesia_kapil_srivatsan_1
 
 )
 
